@@ -6,7 +6,7 @@
 name: Bom04
 
 # Short bio or description (displayed in the header)
-description: 
+description: 자주 커밋하려고 노력중이에요
 
 #
 # Flags below are optional
@@ -56,7 +56,7 @@ footer-text: © 2017 Kiko Now
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: # <username>.disqus.com
+disqus: bom04 # <username>.disqus.com
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:

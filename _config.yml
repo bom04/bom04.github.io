@@ -2,6 +2,9 @@
 # This file contains configuration flags to customize your site
 #
 
+#Read More
+excerpt_separator: <!--more-->
+
 # Name of your site (displayed in the header)
 name: Bom04
 

@@ -37,7 +37,8 @@ node 설정파일과 firebase service
 * 데이터를 서버에 저장하기 위한 서비스로 관계형 데이터베이스가 아님
 * key, value 구조로 저장하고 조회
 
-> ```firebase.database().ref([데이터베이스 이름]).on('value',(snapshot) =>{ let a=snapshot.val(); });```
+> ```firebase.database().ref([데이터베이스 이름]).on('value',(snapshot) =>{ let a=snapshot.val(); });```<br>
+> on()은 맨 처음 한번 실행됐다가 디비에서 값이 변하면 그때 또 한번 실행됨
 
 ### 동기와 비동기
 

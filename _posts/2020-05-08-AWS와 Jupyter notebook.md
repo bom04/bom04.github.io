@@ -37,7 +37,7 @@ AWS와 Jupyter notebook 설명과 설치 중 에러
 	* ```python -V```를 하면 다운받은 3.6버전이 출력되지만 ```python3```을 하면 3.5버전이 출력되서 이런 에러 발생함
 	* [4번 심볼릭 링크 연결](https://eehoeskrap.tistory.com/316)로 해결했음.
 
->permission denied에러 발생시 ```ln -s ....```코드 앞에 sudo 붙여서 강제로 실행
+	>permission denied에러 발생시 ```ln -s ....```코드 앞에 sudo 붙여서 강제로 실행
 
 3. ModuleNotFoundError: No module named 'pip._internal.cli'
 
